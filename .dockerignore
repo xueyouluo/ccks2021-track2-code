@@ -1,0 +1,9 @@
+.git/
+code/__pycache__
+__pycache__/
+user_data/models/
+user_data/pretrain_tfrecords/
+user_data/texts/
+user_data/tcdata/
+user_data/emb/
+user_data/chinese_roberta_wwm_ext_L-12_H-768_A-12/
